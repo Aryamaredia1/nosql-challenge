@@ -1,1 +1,2 @@
 # nosql-challenge
+This project involves working with the UK Food Standards Agency's food hygiene ratings data to help Eat Safe, Love magazine evaluate establishments across the UK. The project consists of importing data into MongoDB, performing updates like adding a new restaurant and correcting data types, and conducting exploratory analysis to answer questions about hygiene scores, location, and rating values. Using tools like PyMongo and Pandas, we aim to provide the magazine with valuable insights on where food critics should focus their articles.
